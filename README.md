@@ -18,5 +18,6 @@ Graph visualization for games in different platforms
 ## Xbox 360
 <img width="825" alt="image" src="https://user-images.githubusercontent.com/55035176/174961638-faad0f32-ac6a-435d-a741-b56f6aeb2be1.png">
 
-
+## Search
+<img width="825" alt="image" src="https://user-images.githubusercontent.com/55035176/174963937-a95626a9-38b9-4f9f-8ed2-044cbcb40c23.png">
 

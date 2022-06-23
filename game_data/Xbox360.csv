@@ -1,0 +1,794 @@
+difficulty,length,name,rating,type1,type2,sales
+3.1,47.11,Mass Effect 2,4.47,role-playing,None,1000
+3.18,29.04,Castlevania: Symphony of the Night,4.45,action,None,1000
+3.19,43.81,The Orange Box,4.43,miscellaneous,None,1000
+3.16,28.07,Batman: Arkham City,4.42,action,adventure,1000
+3.19,18.74,Portal 2,4.41,action,None,1000
+3.07,71.08,Tales of Vesperia,4.41,role-playing,None,1000
+3.08,79.12,The Elder Scrolls IV: Oblivion - Game of the Year Edition,4.41,role-playing,None,1000
+3.09,73.72,Fallout 3: Game of the Year Edition,4.4,role-playing,None,1000
+3.07,48.32,Red Dead Redemption: Game of the Year Edition,4.39,action,adventure,200
+3.04,43.43,Red Dead Redemption,4.39,action,adventure,1000
+3.28,25.19,Resident Evil 4 HD,4.39,action,adventure,500
+2.98,79.99,The Elder Scrolls V: Skyrim,4.39,role-playing,None,1000
+3.37,49.0,Metal Gear Solid HD Collection,4.39,miscellaneous,None,500
+3.2,12.18,Portal: Still Alive,4.38,action,None,500
+3.09,77.72,Mass Effect Trilogy,4.38,miscellaneous,None,100
+3.18,76.42,Fallout: New Vegas - Ultimate Edition,4.38,role-playing,None,500
+3.11,67.49,Fallout 3,4.38,role-playing,None,1000
+2.98,18.28,Banjo-Kazooie,4.38,action,None,500
+3.12,24.16,Batman: Arkham Asylum,4.37,action,adventure,1000
+4.34,72.27,Dark Souls II,4.36,role-playing,None,1000
+4.3,70.45,Dark Souls,4.35,role-playing,None,1000
+3.13,50.82,Rock Band 2,4.35,action,None,1000
+3.14,22.59,BioShock,4.35,action,None,1000
+3.22,63.06,Dragon Age: Origins - Ultimate Edition,4.34,miscellaneous,None,200
+2.18,2.81,The Walking Dead: Episode 5 - No Time Left,4.34,adventure,None,100
+3.04,75.75,The Elder Scrolls IV: Oblivion,4.34,role-playing,None,1000
+3.55,69.5,Dragon's Dogma: Dark Arisen,4.34,role-playing,None,500
+3.12,27.32,Call of Duty 4: Modern Warfare,4.33,action,None,1000
+3.08,47.07,Mass Effect,4.32,role-playing,None,1000
+2.89,55.86,Grand Theft Auto V,4.32,action,adventure,1000
+2.36,3.39,The Walking Dead: Episode 2 - Starved for Help,4.3,adventure,None,100
+3.26,54.99,Borderlands 2,4.3,action,None,1000
+3.02,63.83,Forza Motorsport 4,4.3,racing,None,500
+3.17,26.55,Banjo-Tooie,4.29,action,None,200
+3.29,63.81,Dragon's Dogma,4.29,role-playing,None,1000
+3.06,73.65,Diablo III: Ultimate Evil Edition,4.28,role-playing,None,200
+3.88,49.25,XCOM: Enemy Within,4.28,strategy,None,100
+3.26,53.14,Borderlands: Game of the Year Edition,4.28,action,None,200
+3.17,15.24,Rez HD,4.28,action,None,100
+3.18,53.68,Rock Band 3,4.28,action,None,500
+4.16,67.53,Dark Souls II: Scholar of the First Sin,4.28,role-playing,None,100
+2.21,3.17,The Walking Dead: Episode 4 - Around Every Corner,4.27,adventure,None,100
+3.04,22.51,Rayman Legends,4.27,action,None,100
+2.92,31.84,Assassin's Creed II,4.26,action,adventure,1000
+3.73,22.97,Street Fighter III: Third Strike Online Edition,4.26,action,None,200
+3.32,20.54,Dead Space,4.25,action,None,1000
+3.34,13.79,Guardian Heroes,4.25,role-playing,None,200
+2.98,13.92,Shadow Complex,4.25,action,None,500
+3.68,16.8,DOOM II,4.25,action,None,200
+3.09,21.34,Castle Crashers,4.25,action,None,1000
+4.21,21.33,Mushihimesama Futari Ver 1.5,4.24,action,None,100
+3.06,41.31,Rock Band,4.23,action,None,1000
+3.26,55.82,Dragon Age: Origins,4.23,role-playing,None,1000
+3.12,68.15,Fallout: New Vegas,4.23,role-playing,None,1000
+2.71,64.72,Minecraft: Xbox 360 Edition,4.23,action,adventure,1000
+2.89,52.61,Warriors Orochi 2,4.08,action,None,200
+3.72,24.1,The King of Fighters XIII,4.08,action,None,100
+3.19,28.41,Dead Rising 2: Off the Record,4.08,action,adventure,200
+3.83,11.03,Deathsmiles,4.01,action,None,200
+3.17,13.33,Half-Minute Hero: Super Mega Neo Climax,4.0,role-playing,None,100
+2.97,28.81,L.A. Noire,4.0,action,adventure,1000
+2.47,3.47,The Wolf Among Us: Episode 1 - Faith,4.15,adventure,None,100
+3.01,48.85,Grand Theft Auto: San Andreas,4.15,action,adventure,200
+3.89,38.28,XCOM: Enemy Unknown,4.15,strategy,None,200
+2.87,19.56,Dust: An Elysian Tail,4.14,action,None,200
+3.06,52.57,Diablo III,4.14,role-playing,None,500
+3.26,23.76,Left 4 Dead,4.14,action,None,1000
+3.35,20.62,Dead Space 2,4.23,action,None,1000
+2.39,16.07,The Walking Dead: A Telltale Games Series,4.23,adventure,None,200
+3.65,25.75,Bayonetta,4.22,action,adventure,1000
+2.26,3.19,The Walking Dead: Episode 3 - Long Road Ahead,4.22,adventure,None,100
+3.07,45.58,Grand Theft Auto IV,4.22,action,adventure,1000
+2.95,46.1,Warriors Orochi 3,4.22,action,None,200
+2.65,21.25,South Park: The Stick of Truth,4.21,role-playing,None,500
+3.22,22.35,Gears of War 3,4.21,action,None,1000
+2.99,12.08,Pac-Man Championship Edition DX,4.21,action,None,100
+3.08,21.15,BioShock Infinite,4.21,action,None,1000
+3.35,27.23,Perfect Dark,4.2,action,None,500
+3.34,28.11,Jet Set Radio,4.07,action,None,100
+3.09,26.62,Resident Evil 5,4.07,action,adventure,1000
+3.35,35.32,Tekken Tag Tournament 2,4.07,action,None,200
+3.43,48.7,Castlevania: Harmony of Despair,4.07,action,adventure,500
+3.05,9.54,Sonic &amp; Knuckles,4.07,action,None,200
+3.5,11.61,Super Street Fighter II Turbo HD Remix,4.06,action,None,200
+3.28,20.89,Gears of War,4.06,action,None,1000
+3.14,6.68,Disney DuckTales: Remastered,4.06,action,None,100
+2.78,34.34,Saints Row: The Third,4.0,action,adventure,1000
+3.68,11.09,Bionic Commando: Rearmed,4.0,action,None,200
+2.7,34.27,Saints Row IV,4.0,action,adventure,500
+3.17,7.7,Pac-Man Championship Edition,4.0,action,None,200
+3.03,20.84,Star Wars: The Force Unleashed - Ultimate Sith Edition,4.0,miscellaneous,None,100
+2.88,15.56,Beyond Good &amp; Evil HD,3.99,action,adventure,200
+3.24,26.34,SoulCalibur IV,3.99,action,None,1000
+3.39,30.83,Sonic &amp; All-Stars Racing Transformed,3.99,racing,None,200
+3.2,30.0,Puzzle Quest: Challenge of the Warlords,3.99,puzzle,None,200
+3.97,25.13,Trials Evolution,4.14,racing,None,200
+3.02,53.76,Dynasty Warriors: Gundam 3,4.14,action,None,200
+3.32,57.08,Ultra Street Fighter IV,4.14,action,None,100
+3.07,9.19,Monkey Island 2 Special Edition: LeChuck's Revenge,4.14,adventure,None,100
+3.02,20.92,Transformers: Fall of Cybertron,4.14,action,None,200
+2.92,10.61,Sonic the Hedgehog 3,4.14,action,None,200
+3.13,58.11,NBA 2K11,4.14,sports,None,200
+3.43,28.31,Super Street Fighter IV,4.14,action,None,500
+3.03,32.63,Sonic Adventure 2,4.14,action,None,200
+3.76,47.05,Devil May Cry HD Collection,4.2,miscellaneous,None,200
+1.91,14.22,The Walking Dead: Season Two - A Telltale Games Series,4.2,adventure,None,100
+4.56,25.93,Super Meat Boy,4.2,action,None,200
+2.93,21.61,Tomb Raider,4.19,action,adventure,500
+2.96,32.14,Assassin's Creed: Brotherhood,4.19,action,adventure,1000
+2.93,12.98,Bastion,4.19,role-playing,None,200
+3.06,35.38,Far Cry 3,4.19,action,None,1000
+3.13,48.85,Borderlands,4.19,action,None,1000
+3.51,25.08,Street Fighter IV,4.06,action,None,1000
+3.69,19.13,Resident Evil Code: Veronica X HD,4.06,action,adventure,100
+3.5,18.32,Duke Nukem 3D,4.06,action,None,200
+2.93,27.82,Sleeping Dogs,4.06,action,adventure,500
+2.99,39.82,NHL 10,4.06,sports,None,200
+3.05,51.84,Dynasty Warriors: Gundam 2,4.05,action,None,200
+2.82,55.18,Dynasty Warriors 8,4.05,action,None,100
+3.41,10.96,Streets of Rage 2,4.05,action,None,100
+3.39,25.41,Hitman: Blood Money,4.05,action,adventure,200
+2.93,12.06,Cthulhu Saves the World,4.05,role-playing,None,100
+2.52,36.14,LEGO Marvel Super Heroes,4.05,action,adventure,200
+2.79,27.12,Torchlight,3.99,role-playing,None,200
+3.55,18.03,Marvel vs. Capcom 2,3.99,action,None,200
+3.3,23.73,BattleBlock Theater,3.99,action,None,200
+3.02,41.91,NBA 2K9,3.98,sports,None,200
+2.99,41.41,Skate 3,3.98,sports,None,500
+2.9,13.02,DeathSpank,3.98,role-playing,None,100
+3.17,22.78,Halo 4,3.98,action,None,1000
+3.35,24.73,Dead or Alive 5,3.98,action,None,200
+3.97,11.59,Mega Man 9,4.13,action,None,200
+2.92,19.26,Sonic Generations,4.13,action,None,1000
+3.04,32.64,Grand Theft Auto: Episodes from Liberty City,4.13,miscellaneous,None,500
+3.33,13.0,Mark of the Ninja,4.13,action,None,100
+3.01,33.78,Naruto Shippuden: Ultimate Ninja Storm 3,4.12,action,None,200
+3.04,35.83,Dragon Ball Z Budokai HD Collection,4.12,miscellaneous,None,100
+3.48,26.24,BlazBlue: Continuum Shift,4.12,action,None,200
+3.59,25.04,Mortal Kombat,4.19,action,None,1000
+2.95,40.35,Saints Row 2,4.19,action,adventure,1000
+3.19,22.78,Gears of War 2,4.18,action,None,1000
+3.06,43.68,Far Cry 4,4.18,action,None,200
+3.03,32.26,Fallout 3 Game Add-On Pack: Broken Steel and Point Lookout,4.18,role-playing,None,100
+3.31,39.58,State of Decay,4.04,action,adventure,500
+3.76,33.24,Armored Core: For Answer,4.04,simulation,None,200
+3.37,30.51,GRID,4.04,racing,None,200
+3.28,47.18,Metal Gear Solid: Peace Walker HD Edition,4.04,action,adventure,100
+3.62,39.62,The Witcher 2: Assassins of Kings,4.04,role-playing,None,500
+2.53,50.74,NCAA Football 09,4.04,sports,None,200
+3.06,50.89,NBA 2K13,4.04,sports,None,200
+3.09,38.75,Sid Meier's Civilization Revolution,4.04,strategy,None,500
+3.3,25.57,Tom Clancy's Rainbow Six Vegas 2,4.03,action,None,1000
+4.03,23.73,Alien: Isolation,3.97,action,adventure,100
+3.02,55.96,FIFA Soccer 12,3.97,sports,None,200
+3.1,22.7,Magic: The Gathering - Duels of the Planeswalkers 2012,3.97,strategy,None,100
+3.18,37.69,Dance Central 2,3.97,action,None,100
+2.95,16.58,Ghostbusters: The Video Game,3.97,action,None,500
+3.07,18.39,Alan Wake,3.97,action,adventure,1000
+2.71,60.06,Kingdoms of Amalur: Reckoning,3.97,role-playing,None,1000
+3.57,47.44,Dragon Ball: Xenoverse,4.12,action,None,200
+3.25,52.4,Sonic's Ultimate Genesis Collection,4.18,miscellaneous,None,500
+3.72,15.7,Geometry Wars: Retro Evolved 2,4.18,action,None,200
+3.77,67.9,Earth Defense Force 2025,4.18,action,None,100
+3.25,31.3,Gears of War 2: Game of the Year Edition,4.18,miscellaneous,None,100
+3.09,21.63,BioShock 2,4.03,action,None,1000
+3.13,32.11,Skate 2,4.03,sports,None,500
+3.26,18.33,Hydro Thunder Hurricane,4.03,racing,None,100
+3.04,30.76,Call of Duty: Modern Warfare 2,4.03,action,None,1000
+2.8,45.83,FIFA Soccer 09,3.96,sports,None,200
+3.23,35.87,Dead or Alive 5 Ultimate,4.12,action,None,100
+3.54,16.63,DOOM,4.12,action,None,500
+3.24,64.3,Terraria,4.18,action,adventure,500
+2.86,25.16,The Beatles: Rock Band,4.18,action,None,200
+3.12,7.33,Sonic the Hedgehog (Live Arcade),4.02,action,None,200
+3.27,27.25,Guitar Hero II,3.96,action,None,1000
+3.0,22.05,Battlefield: Bad Company,3.96,action,None,1000
+3.46,24.47,Mortal Kombat Komplete Edition,4.12,action,None,100
+3.58,36.47,BlazBlue: Continuum Shift Extend,4.12,action,None,100
+2.81,37.05,NHL 09,4.12,sports,None,200
+2.73,44.71,Dynasty Warriors 7,4.11,action,None,200
+3.34,15.5,Scott Pilgrim vs. the World: The Game,4.11,action,None,200
+3.2,24.23,Red Dead Redemption: Undead Nightmare,4.11,miscellaneous,None,200
+2.87,29.93,Naruto Shippuden: Ultimate Ninja Storm 2,4.1,action,None,500
+3.12,51.84,Grand Theft Auto IV: The Complete Edition,4.18,action,adventure,200
+3.18,28.54,Halo: Reach,4.18,action,None,1000
+2.96,43.74,Assassin's Creed IV: Black Flag,4.17,action,adventure,1000
+3.3,22.02,Rayman Origins,4.17,action,None,200
+3.62,10.63,Braid,4.17,action,None,500
+3.32,30.55,Virtua Fighter 5 Online,4.02,action,None,200
+3.61,50.12,Rocksmith,4.02,action,None,100
+3.0,23.99,Deadly Premonition,4.02,action,adventure,200
+3.41,33.19,Super Street Fighter IV: Arcade Edition,3.96,action,None,200
+2.55,27.33,LEGO Batman 2: DC Super Heroes,3.96,action,adventure,200
+2.52,28.01,LEGO The Lord of the Rings,3.96,action,adventure,200
+2.94,41.15,Forza Horizon,4.1,racing,None,500
+3.09,27.54,Resident Evil 5: Gold Edition,4.1,action,adventure,200
+3.23,20.88,Halo: Combat Evolved Anniversary,4.1,action,None,1000
+3.3,19.24,Virtua Fighter 5 Final Showdown,4.1,action,None,100
+4.26,26.95,Ninja Gaiden II,4.1,action,adventure,1000
+3.31,29.27,Deus Ex: Human Revolution,4.16,action,adventure,1000
+3.31,76.27,Metal Gear Solid V: The Phantom Pain,4.16,action,adventure,100
+3.02,11.51,The Secret of Monkey Island: Special Edition,4.16,adventure,None,200
+3.07,10.34,Sonic the Hedgehog 2,4.16,action,None,200
+2.38,3.34,The Walking Dead: Episode 1 - A New Day,4.16,adventure,None,200
+3.14,29.3,Halo 3,4.16,action,None,1000
+3.08,17.71,Tom Clancy's Splinter Cell: Conviction,4.02,action,adventure,500
+3.22,23.91,Dishonored,4.02,action,adventure,1000
+2.96,42.07,NIER,4.01,role-playing,None,500
+3.37,28.26,Guitar Hero III: Legends of Rock,4.01,action,None,1000
+3.41,24.17,Devil May Cry 4,3.95,action,adventure,1000
+3.27,21.97,Ace Combat 6: Fires of Liberation,3.95,simulation,None,500
+2.92,22.88,Plants vs. Zombies,4.1,strategy,None,200
+2.91,10.78,Far Cry 3: Blood Dragon,4.09,action,None,200
+3.39,25.99,Guitar Hero: Metallica,4.09,action,None,500
+3.0,32.1,Fallout 3 Game Add-On Pack - The Pitt and Operation: Anchorage,4.09,role-playing,None,100
+3.07,28.9,Battlefield: Bad Company 2,4.09,action,None,1000
+3.75,9.91,Mega Man 10,4.09,action,None,200
+3.27,47.27,NBA 2K12,4.08,sports,None,200
+3.48,27.77,BlazBlue: Calamity Trigger,4.16,action,None,500
+3.03,65.13,Forza Motorsport 3,4.16,racing,None,1000
+3.02,45.17,Mass Effect 3,4.15,role-playing,None,1000
+3.21,66.02,Lost Odyssey,4.15,role-playing,None,1000
+3.16,9.47,Sonic CD,4.01,action,None,200
+4.5,19.07,Ikaruga,4.01,action,None,200
+3.6,17.78,Max Payne 3,4.01,action,None,500
+3.1,54.21,Forza Motorsport 2,3.95,racing,None,1000
+2.9,19.14,X-Men Origins: Wolverine,3.95,action,None,200
+3.12,49.38,Plants vs Zombies: Garden Warfare,3.94,action,None,100
+4.26,12.76,Radiant Silvergun,3.94,action,None,100
+3.93,25.86,Trials HD,3.94,racing,None,200
+3.11,33.44,Need for Speed: Most Wanted (2005),3.94,racing,None,200
+3.4,14.76,Vanquish,3.94,action,None,200
+3.62,16.09,Metal Gear Rising: Revengeance,4.08,action,adventure,500
+2.45,34.14,LEGO Star Wars: The Complete Saga,4.01,miscellaneous,None,1000
+3.42,31.89,Zone of the Enders HD Collection,4.01,miscellaneous,None,100
+3.01,26.23,Naruto Shippuden: Ultimate Ninja Storm Generations,4.01,action,None,200
+2.56,35.86,Fable II,4.01,role-playing,None,1000
+3.07,47.28,Just Cause 2,3.94,action,adventure,500
+3.2,17.44,Injustice: Gods Among Us,3.94,action,None,500
+2.98,34.45,DiRT 2,3.94,racing,None,100
+3.23,26.87,Call of Duty: World at War,3.94,action,None,1000
+3.07,74.77,Dragon Age: Inquisition,3.94,role-playing,None,200
+3.2,23.16,DOOM 3 BFG Edition,3.94,action,None,200
+3.3,26.65,Left 4 Dead 2,4.08,action,None,1000
+3.94,21.5,Catherine,4.08,action,adventure,500
+3.34,33.64,Gears of War Triple Pack,4.08,miscellaneous,None,100
+2.81,31.04,Bully: Scholarship Edition,3.93,action,adventure,1000
+3.18,31.41,Pinball FX 2,3.93,action,None,100
+3.35,6.3,LIMBO,4.08,action,None,500
+2.62,43.79,Fable II: Game of the Year Edition,4.08,miscellaneous,None,200
+2.89,12.67,Peggle,3.93,puzzle,None,200
+2.95,57.49,NHL 11,3.93,sports,None,100
+3.17,5.61,Galaga,3.93,action,None,100
+3.77,9.91,The Dishwasher: Dead Samurai,3.93,action,None,100
+3.07,33.47,Dragon Ball: Raging Blast 2,3.93,action,None,200
+3.37,30.3,Ultimate Marvel vs. Capcom 3,3.93,action,None,500
+4.21,14.39,Hard Corps: Uprising,3.93,action,None,100
+3.16,32.5,Darksiders II,3.93,action,adventure,500
+3.1,26.76,Persona 4 Arena,3.92,action,None,200
+2.79,43.63,FIFA Soccer 10,3.92,sports,None,200
+3.28,13.87,Spec Ops: The Line,3.92,action,None,200
+3.68,8.4,Skullgirls,3.92,action,None,100
+2.78,34.52,Fable Anniversary,3.92,role-playing,None,200
+3.04,55.92,Borderlands: The Pre-Sequel,3.92,action,None,200
+3.04,54.73,NHL 12,3.92,sports,None,100
+3.23,28.09,Halo Wars,3.78,strategy,None,1000
+2.13,4.34,Brothers: A Tale of Two Sons,3.78,action,adventure,100
+2.97,49.1,Magna Carta 2,3.78,role-playing,None,200
+3.05,19.97,Tomb Raider: Underworld,3.78,action,adventure,200
+2.54,24.81,LEGO Rock Band,3.78,action,None,100
+2.89,15.63,Tomb Raider: Legend,3.78,action,adventure,200
+3.08,19.45,Castlevania: Lords of Shadow 2,3.77,action,adventure,100
+3.29,20.32,Hitman: Absolution,3.77,action,adventure,500
+3.13,30.77,DiRT 3,3.77,racing,None,100
+3.0,21.49,Fight Night Round 4,3.77,sports,None,200
+2.85,20.8,Transformers: Revenge of the Fallen,3.77,action,None,100
+3.04,13.6,Lollipop Chainsaw,3.77,action,None,200
+3.08,60.79,FIFA 14,3.73,sports,None,100
+2.98,28.66,Call of Duty: Black Ops,3.73,action,None,1000
+3.09,61.83,Sacred 2: Fallen Angel,3.73,role-playing,None,500
+3.2,15.76,Condemned 2: Bloodshot,3.73,action,adventure,500
+3.01,28.8,Magic: The Gathering - Duels of the Planeswalkers,3.72,strategy,None,200
+3.5,28.75,Battlestations: Pacific,3.72,strategy,None,100
+2.97,28.98,Guitar Hero 5,3.72,action,None,200
+2.95,13.35,Fight Night Round 3,3.72,sports,None,200
+2.21,17.83,Mini Ninjas,3.72,action,adventure,100
+2.86,43.92,Dragon Age II,3.72,role-playing,None,1000
+2.96,28.36,Need for Speed Carbon,3.71,racing,None,200
+3.4,67.38,Record of Agarest War Zero,3.71,strategy,None,100
+3.03,20.08,Brutal Legend,3.83,action,adventure,500
+2.41,25.39,LEGO Batman: The Videogame,3.83,action,adventure,500
+3.15,34.32,Monday Night Combat,3.83,action,None,100
+2.96,26.34,Assassin's Creed,3.83,action,adventure,1000
+3.06,18.38,Mafia II,3.83,action,adventure,500
+2.8,20.84,Naruto: The Broken Bond,3.83,action,adventure,200
+3.02,14.05,Shadows of the Damned,3.83,action,adventure,200
+3.45,16.78,Metro 2033,3.83,action,None,500
+3.33,11.64,Outland,3.83,action,None,100
+2.98,15.67,Spider-Man: Shattered Dimensions,3.82,action,adventure,200
+3.13,30.61,Resident Evil: Revelations 2,3.82,action,adventure,100
+3.12,19.58,Halo 3: ODST,3.82,action,None,1000
+3.06,30.76,Red Faction: Guerrilla,3.89,action,None,500
+2.5,65.13,The Sims 3: Pets,3.89,simulation,None,100
+2.96,54.89,Final Fantasy XIII-2,3.88,role-playing,None,1000
+3.47,42.67,Dungeon Defenders,3.88,role-playing,None,200
+3.24,53.26,Yu-Gi-Oh! Millennium Duels,3.88,strategy,None,100
+3.35,20.89,The Chronicles of Riddick: Assault on Dark Athena,3.88,action,None,200
+2.81,21.67,Sonic &amp; Sega All-Stars Racing with Banjo-Kazooie,3.88,racing,None,200
+2.85,45.27,NBA 2K10,3.88,sports,None,100
+2.5,31.61,LEGO Batman 3: Beyond Gotham,3.92,action,adventure,100
+3.03,30.69,Titanfall,3.92,action,None,100
+3.02,19.33,Transformers: War for Cybertron,3.91,action,None,200
+3.25,11.53,Super Puzzle Fighter II Turbo HD Remix,3.91,puzzle,None,100
+3.29,29.36,Guitar Hero: Warriors of Rock,3.91,action,None,200
+3.51,56.56,F1 2010,3.91,racing,None,100
+3.32,14.23,Child of Eden,3.91,action,None,100
+2.88,39.68,Naruto Shippuden: Ultimate Ninja Storm Revolution,3.91,action,None,100
+2.66,55.28,Viva Pinata: Trouble in Paradise,3.91,simulation,None,200
+2.84,32.28,WWE '13,3.91,sports,None,200
+2.89,42.74,NBA 2K8,3.91,sports,None,100
+3.16,66.67,Star Ocean: The Last Hope,3.91,role-playing,None,1000
+3.28,23.65,Tom Clancy's Splinter Cell: Blacklist,3.91,action,adventure,200
+3.75,26.64,Dead or Alive 4,3.77,action,None,1000
+3.28,28.6,Blur,3.77,racing,None,200
+2.96,37.62,WWE 2K14,3.77,sports,None,200
+2.95,22.28,Dragon Ball: Raging Blast,3.76,action,None,200
+2.57,45.68,Viva Pinata,3.76,simulation,None,500
+3.14,62.74,Final Fantasy XIII,3.76,role-playing,None,1000
+2.88,59.78,Blue Dragon,3.76,role-playing,None,1000
+2.67,39.61,NCAA Football 11,3.76,sports,None,100
+2.97,20.38,Overlord II,3.76,action,adventure,200
+2.68,23.75,Tiger Woods PGA Tour 09,3.76,sports,None,100
+3.31,14.09,From Dust,3.76,strategy,None,100
+3.39,22.46,Tom Clancy's Rainbow Six Vegas,3.76,action,None,500
+3.5,75.4,World of Tanks: Xbox 360 Edition,3.71,simulation,None,100
+3.06,21.11,Dead Space 3,3.71,action,adventure,500
+3.1,22.93,Charlie Murder,3.71,action,None,100
+2.93,17.4,Bulletstorm,3.71,action,None,500
+3.9,11.78,Ultimate Mortal Kombat 3,3.7,action,None,100
+3.33,17.82,Tom Clancy's Splinter Cell Double Agent,3.7,action,adventure,500
+3.09,20.44,1 vs. 100,3.7,miscellaneous,None,100
+2.95,18.38,Driver: San Francisco,3.82,racing,None,100
+3.07,24.55,Batman: Arkham Origins,3.82,action,adventure,500
+3.03,10.22,ilomilo,3.82,puzzle,None,100
+3.18,14.98,Condemned: Criminal Origins,3.81,action,adventure,500
+3.71,22.59,Lumines Live!,3.81,puzzle,None,100
+3.27,27.41,Split/Second,3.81,racing,None,200
+2.98,16.22,Star Wars: The Force Unleashed,3.81,action,adventure,1000
+3.15,38.8,Project Gotham Racing 4,3.81,racing,None,500
+3.07,23.44,Beautiful Katamari,3.81,puzzle,None,500
+3.13,31.54,DiRT,3.88,racing,None,200
+3.13,40.44,Battlefield 1943,3.88,action,None,200
+3.33,16.12,Toy Soldiers,3.87,strategy,None,100
+3.8,7.76,Akai Katana,3.87,action,None,100
+3.03,33.79,The Godfather,3.87,action,adventure,200
+2.95,12.2,SoulCalibur,3.87,action,None,100
+3.07,6.33,Pac-Man,3.87,action,None,100
+2.78,30.15,Rise of the Tomb Raider,3.91,action,adventure,100
+3.27,41.98,Midnight Club: Los Angeles,3.9,racing,None,500
+3.02,37.7,Burnout Paradise,3.9,racing,None,1000
+3.24,8.19,Teenage Mutant Ninja Turtles: 1989 Classic Arcade,3.76,action,None,200
+3.18,28.69,Need for Speed: Hot Pursuit,3.76,racing,None,200
+3.49,22.88,Defense Grid: The Awakening,3.76,strategy,None,100
+3.15,18.69,Tom Clancy's Ghost Recon: Future Soldier,3.75,action,None,200
+2.75,35.68,Dynasty Warriors 6,3.7,action,None,500
+3.16,23.34,Magic: The Gathering - Duels of the Planeswalkers 2013,3.7,strategy,None,100
+3.12,16.71,Dante's Inferno,3.7,action,adventure,500
+3.81,20.48,The Evil Within,3.81,action,adventure,100
+3.13,17.58,Crysis 2,3.81,action,None,500
+2.95,39.24,Warriors Orochi,3.8,action,None,100
+3.0,9.19,Penny Arcade Adventures: Episode One,3.87,adventure,None,100
+2.22,11.4,Costume Quest,3.87,role-playing,None,100
+2.82,46.3,Forza Horizon 2,3.87,racing,None,100
+3.18,19.28,Call of Duty 2,3.86,action,None,1000
+2.88,27.02,Assassin's Creed: Revelations,3.9,action,adventure,1000
+2.55,49.82,NCAA Football 10,3.9,sports,None,100
+3.37,16.75,Fez,3.9,action,None,200
+3.16,27.14,Dead Rising 2,3.9,action,adventure,1000
+2.82,29.78,Assassin's Creed Rogue,3.9,action,adventure,200
+3.57,46.27,Earth Defense Force 2017,3.75,action,None,200
+3.05,17.15,The Darkness,3.75,action,None,500
+3.74,65.88,The Last Remnant,3.69,role-playing,None,1000
+2.74,34.62,Dynasty Warriors 5 Empires,3.69,action,None,200
+3.25,17.85,Sniper Elite V2,3.69,action,None,200
+3.93,13.61,Mortal Kombat Arcade Kollection,3.69,miscellaneous,None,100
+2.92,12.68,The Darkness II,3.8,action,None,200
+3.01,9.09,Dead Rising 2: Case West,3.8,action,adventure,200
+2.29,26.23,LEGO Star Wars II: The Original Trilogy,3.8,action,adventure,200
+2.93,22.48,Spider-Man: Web of Shadows,3.86,action,adventure,200
+3.3,25.23,Castlevania: Lords of Shadow,3.86,action,adventure,500
+3.3,14.16,Mirror's Edge,3.86,action,adventure,1000
+3.6,32.69,Dead Rising,3.86,action,adventure,1000
+3.18,26.68,Battlefield 3,3.9,action,None,1000
+3.16,34.63,Skate,3.89,sports,None,500
+3.29,30.99,Tekken 6,3.89,action,None,500
+3.16,24.03,Prototype,3.89,action,adventure,1000
+3.07,23.31,Alice: Madness Returns,3.89,action,adventure,500
+3.06,23.57,Darksiders,3.89,action,adventure,1000
+2.81,46.31,FIFA Soccer 11,3.89,sports,None,200
+4.07,25.41,N+,3.89,action,None,200
+3.01,33.16,The Saboteur,3.89,action,adventure,200
+2.37,26.76,LEGO Harry Potter: Years 5-7,3.89,action,adventure,200
+3.31,30.08,Way of the Samurai 3,3.89,action,adventure,100
+2.08,17.62,A Kingdom for Keflings,3.75,strategy,None,200
+3.14,71.6,Grand Theft Auto Online,3.75,action,adventure,500
+3.09,18.88,Tomb Raider: Anniversary,3.75,action,adventure,200
+3.29,33.85,Dead Island,3.75,action,adventure,1000
+2.92,19.68,Green Day: Rock Band,3.75,action,None,100
+3.15,16.22,"Warhammer 40,000: Space Marine",3.75,action,None,200
+3.12,45.29,Fist of the North Star: Ken's Rage,3.75,action,None,100
+3.15,17.65,Iron Brigade,3.75,strategy,None,100
+2.9,35.01,NCAA Football 12,3.75,sports,None,100
+2.93,30.39,Mercenaries 2: World in Flames,3.75,action,adventure,500
+3.15,32.57,Lost Planet 2,3.69,action,None,500
+3.08,53.5,NBA 2K14,3.69,sports,None,100
+3.12,18.98,DJ Hero,3.69,action,None,200
+2.85,7.97,X-Men: The Arcade Game,3.69,action,None,100
+3.26,16.62,Crazy Taxi,3.69,racing,None,100
+2.96,32.37,WWE '12,3.69,sports,None,200
+2.39,23.02,Disney/Pixar Toy Story 3,3.69,action,None,100
+2.71,20.61,The Godfather II,3.69,action,adventure,200
+2.91,26.2,Overlord,3.68,action,adventure,500
+2.93,34.75,Assassin's Creed III,3.8,action,adventure,1000
+3.44,11.62,Double Dragon: Neon,3.8,action,None,100
+2.95,25.9,Guitar Hero World Tour,3.8,action,None,1000
+3.16,19.78,DJ Hero 2,3.86,action,None,100
+3.26,57.56,Lightning Returns: Final Fantasy XIII,3.89,role-playing,None,200
+3.45,23.89,Marble Blast Ultra,3.89,action,None,100
+3.14,23.38,Worms 2: Armageddon,3.89,strategy,None,100
+2.66,18.33,Prince of Persia,3.75,action,adventure,500
+3.21,11.16,Metal Gear Solid V: Ground Zeroes,3.74,action,adventure,200
+2.92,7.0,Dead Rising 2: Case Zero,3.74,action,adventure,500
+2.34,17.0,Uno,3.74,miscellaneous,None,200
+3.0,33.52,Saints Row,3.74,action,adventure,1000
+3.59,77.94,Record of Agarest War,3.73,strategy,None,200
+3.65,57.6,Payday 2,3.73,action,None,100
+3.07,37.24,Gotham City Impostors,3.73,action,None,100
+2.71,12.78,Asura's Wrath,3.73,action,adventure,200
+3.06,21.95,Guitar Hero: Smash Hits,3.73,action,None,200
+3.14,11.71,Worms,3.68,strategy,None,200
+2.94,15.75,Blitz: The League II,3.68,sports,None,100
+2.86,22.37,Crackdown,3.68,action,adventure,1000
+2.97,42.6,Dynasty Warriors: Gundam,3.68,action,None,200
+3.36,24.21,Silent Hill HD Collection,3.68,miscellaneous,None,200
+3.33,18.93,Lost Planet: Extreme Condition Colonies Edition,3.68,action,None,200
+3.14,17.34,Brothers in Arms: Hell's Highway,3.67,action,None,200
+2.38,26.66,LEGO Indiana Jones 2: The Adventure Continues,3.67,action,adventure,200
+3.05,57.17,Bladestorm: The Hundred Years' War,3.67,action,None,100
+2.92,50.07,FIFA Soccer 08,3.67,sports,None,100
+3.5,26.98,SSX,3.67,sports,None,200
+2.92,16.27,WWE All Stars,3.67,sports,None,100
+3.11,4.56,The Simpsons Arcade Game,3.8,action,None,100
+2.98,62.37,Destiny,3.8,action,None,500
+2.57,30.23,LEGO Star Wars III: The Clone Wars,3.8,action,adventure,200
+2.87,24.45,Marvel: Ultimate Alliance 2,3.8,role-playing,None,500
+2.68,32.39,Madden NFL 10,3.79,sports,None,200
+2.49,61.44,The Sims 3,3.79,simulation,None,200
+3.26,29.63,UFC Undisputed 3,3.79,sports,None,100
+2.88,48.3,Samurai Warriors 2,3.79,action,None,100
+2.96,34.0,Middle-earth: Shadow of Mordor,3.79,action,adventure,100
+2.93,11.96,Lara Croft and the Guardian of Light,3.79,action,adventure,200
+4.26,46.33,Spelunky,3.86,action,None,100
+3.8,4.45,Metal Slug 3,3.86,action,None,100
+3.9,21.06,Geometry Wars: Retro Evolved,3.86,action,None,200
+2.84,42.45,Eternal Sonata,3.86,role-playing,None,1000
+2.65,28.57,Madden NFL 09,3.86,sports,None,500
+3.18,26.85,Dance Central,3.85,action,None,200
+2.71,36.88,Dynasty Warriors 6 Empires,3.85,action,None,200
+2.25,26.0,LEGO Harry Potter: Years 1-4,3.85,action,adventure,500
+2.45,25.81,LEGO Pirates of the Caribbean: The Video Game,3.85,action,adventure,200
+3.81,68.05,Resonance of Fate,3.85,role-playing,None,500
+3.12,20.44,Anarchy Reigns,3.67,action,None,100
+2.9,28.79,Persona 4 Arena Ultimax,3.67,action,None,100
+3.2,17.93,Tom Clancy's Ghost Recon Advanced Warfighter 2,3.79,action,None,200
+3.11,23.12,UFC Undisputed 2009,3.85,sports,None,500
+3.41,32.53,Command &amp; Conquer: Red Alert 3,3.67,strategy,None,200
+2.69,34.09,WWE SmackDown vs. Raw 2011,3.79,sports,None,200
+3.62,55.0,Culdcept Saga,3.79,strategy,None,100
+3.4,47.38,Divinity II: The Dragon Knight Saga,3.79,miscellaneous,None,100
+3.23,11.37,Wolfenstein 3D,3.79,action,None,100
+2.5,28.73,WWE SmackDown vs. Raw 2009,3.79,sports,None,500
+3.01,12.73,F.E.A.R. 2: Project Origin,3.79,action,None,200
+2.96,11.3,Binary Domain,3.85,action,None,100
+3.19,22.93,Resident Evil: Revelations,3.85,action,adventure,200
+3.13,26.67,Unreal Tournament III,3.84,action,None,200
+3.26,19.08,Metro: Last Light,3.84,action,None,200
+3.14,27.78,Burnout Revenge,3.84,racing,None,200
+2.54,30.54,WWE SmackDown vs. Raw 2010,3.84,sports,None,200
+2.74,34.75,Samurai Warriors 2 Empires,3.78,action,None,100
+2.85,15.43,Enslaved: Odyssey to the West,3.78,action,adventure,200
+2.89,41.2,NHL 08,3.78,sports,None,100
+2.52,23.52,The LEGO Movie Videogame,3.84,action,adventure,100
+3.11,11.89,Breath of Death VII: The Beginning,3.84,role-playing,None,100
+2.94,53.09,Test Drive Unlimited,3.84,racing,None,200
+2.89,61.67,FIFA Soccer 13,3.84,sports,None,200
+3.24,21.67,Marvel vs. Capcom 3: Fate of Two Worlds,3.84,action,None,500
+2.85,28.1,Marvel: Ultimate Alliance,3.84,role-playing,None,1000
+2.98,12.0,Singularity,3.83,action,None,200
+2.71,19.82,Prototype 2,3.83,action,adventure,200
+2.3,25.92,LEGO Indiana Jones: The Original Adventures,3.83,action,adventure,500
+3.15,14.85,Silent Hill: Homecoming,3.67,action,adventure,500
+3.21,14.23,F.E.A.R.,3.66,action,None,500
+2.96,33.62,Tenchu Z,3.66,action,adventure,200
+3.11,51.53,Major League Baseball 2K10,3.66,sports,None,100
+2.55,26.17,Madden NFL 11,3.66,sports,None,200
+3.07,50.52,Infinite Undiscovery,3.66,role-playing,None,1000
+3.03,11.65,F.E.A.R. 3,3.66,action,None,200
+3.16,52.48,NHL 13,3.65,sports,None,100
+3.38,32.12,Sonic Unleashed,3.65,action,None,500
+2.96,8.76,Alan Wake's American Nightmare,3.65,action,adventure,200
+2.91,27.23,Marvel: Ultimate Alliance / Forza Motorsport 2,3.65,miscellaneous,None,100
+2.47,32.79,Fable III,3.65,role-playing,None,1000
+3.01,13.24,Crysis 3,3.65,action,None,200
+3.16,28.06,Might &amp; Magic: Clash of Heroes,3.65,role-playing,None,100
+2.98,26.54,Watch Dogs,3.65,action,adventure,200
+3.01,13.44,Deadpool,3.65,action,adventure,200
+2.87,21.31,Bomberman Live,3.64,puzzle,None,100
+3.39,38.34,Far Cry 2,3.64,action,None,1000
+3.07,28.81,Project Gotham Racing 3,3.64,racing,None,200
+2.79,19.02,Scene It? Box Office Smash,3.64,miscellaneous,None,100
+3.85,12.48,Ms. 'Splosion Man,3.64,action,None,100
+4.04,31.59,Operation Flashpoint: Dragon Rising,3.44,action,None,200
+2.87,14.11,Prey,3.44,action,role-playing,500
+3.03,10.01,Crimson Alliance,3.43,action,adventure,100
+3.4,10.28,I Am Alive,3.43,action,adventure,100
+3.13,17.49,GoldenEye 007: Reloaded,3.42,action,None,100
+2.84,8.73,Xbox Live Arcade Compilation Disc,3.42,miscellaneous,None,100
+2.95,20.6,Tony Hawk's Project 8,3.41,sports,None,200
+2.5,22.52,NBA Street Homecourt,3.41,sports,None,100
+3.12,13.82,Ace Combat: Assault Horizon,3.41,simulation,None,100
+2.9,23.11,Call of Duty: Modern Warfare 3,3.41,action,None,1000
+3.06,13.93,Mortal Kombat vs. DC Universe,3.41,action,None,500
+3.03,18.1,Gears of War: Judgment,3.41,action,None,500
+3.5,17.68,Stuntman: Ignition,3.28,racing,None,100
+2.65,29.24,Madden NFL 07,3.28,sports,None,200
+2.71,10.0,Texas Hold 'Em,3.28,miscellaneous,None,100
+3.01,22.05,Spider-Man 3,3.28,action,adventure,200
+3.32,15.29,Turok,3.28,action,None,200
+3.31,49.04,Risen,3.28,role-playing,None,200
+2.77,14.62,50 Cent: Blood on the Sand,3.27,action,None,100
+3.24,18.92,Battlestations: Midway,3.27,strategy,None,100
+2.93,12.67,Enemy Territory: Quake Wars,3.26,action,None,100
+2.93,5.92,Deadliest Warrior: The Game,3.26,action,None,100
+2.53,54.95,NCAA Football 08,3.6,sports,None,100
+3.59,3.32,Prince of Persia Classic,3.6,adventure,None,100
+3.38,24.54,Tom Clancy's EndWar,3.6,strategy,None,200
+3.15,8.61,Toy Soldiers: Cold War,3.6,strategy,None,100
+3.69,20.0,South Park Let's Go Tower Defense Play!,3.59,strategy,None,100
+2.9,14.63,Call of Juarez: Bound in Blood,3.59,action,None,100
+2.95,16.89,Army of Two,3.59,action,None,1000
+2.86,33.87,Madden NFL 12,3.59,sports,None,200
+3.18,16.51,Pure,3.59,racing,None,200
+2.92,32.18,Call of Duty: Black Ops II,3.59,action,None,1000
+2.55,26.87,LEGO Batman: The Videogame / Pure,3.59,miscellaneous,None,100
+3.02,20.76,RAGE,3.64,action,None,500
+2.84,16.7,The Amazing Spider-Man,3.64,action,adventure,200
+3.16,17.52,Tony Hawk's Pro Skater HD,3.64,sports,None,100
+3.21,24.34,UFC Undisputed 2010,3.64,sports,None,200
+3.56,14.17,'Splosion Man,3.64,action,None,200
+2.86,22.0,Sonic Adventure,3.64,action,None,200
+4.09,30.16,Ninja Gaiden 3: Razor's Edge,3.64,action,adventure,100
+3.77,76.41,Final Fantasy XI,3.63,role-playing,None,200
+2.84,16.14,Dragon Ball Z: Burst Limit,3.63,action,None,500
+3.14,16.68,Wolfenstein,3.63,action,None,200
+3.77,18.08,Otomedius Excellent,3.63,action,None,100
+3.38,20.95,Blazing Angels: Squadrons of WWII,3.4,simulation,None,100
+3.24,27.68,N3II: Ninety-Nine Nights,3.39,action,None,200
+3.09,12.05,Dark Sector,3.39,action,None,200
+2.97,24.76,Dungeon Siege III,3.39,role-playing,None,200
+2.21,17.06,Kinectimals,3.38,simulation,None,100
+2.94,13.94,Frontlines: Fuel of War,3.38,action,None,100
+2.92,7.72,Sonic the Hedgehog 4: Episode I,3.38,action,None,200
+2.74,14.38,James Bond 007: Blood Stone,3.38,action,None,100
+3.23,30.11,Battlefield 2: Modern Combat,3.38,action,None,200
+2.9,26.69,Amped 3,3.37,sports,None,100
+2.51,16.72,WWE Legends of WrestleMania,3.37,sports,None,200
+3.19,24.43,Hunted: The Demon's Forge,3.37,action,adventure,100
+2.89,23.38,Tony Hawk's Proving Ground,3.37,sports,None,100
+3.13,13.85,Conan,3.37,action,adventure,200
+2.63,18.46,Rise of the Argonauts,3.36,role-playing,None,100
+2.83,13.64,Full Auto,3.26,simulation,None,100
+2.87,36.08,Madden NFL 13,3.26,sports,None,200
+3.39,22.89,Far Cry Instincts Predator,3.25,action,None,200
+2.52,30.24,Skylanders Giants,3.24,action,None,100
+3.07,13.33,Kane &amp; Lynch: Dead Men,3.24,action,None,200
+2.43,14.51,Kinect Adventures!,3.24,miscellaneous,None,500
+2.93,16.09,El Shaddai: Ascension of the Metatron,3.24,action,adventure,100
+2.62,13.96,Fable II Pub Games,3.23,miscellaneous,None,200
+2.99,17.6,Sega Superstars Tennis,3.23,sports,None,200
+2.93,21.37,The Legend of Spyro: Dawn of the Dragon,3.22,action,None,100
+3.2,28.35,The Lord of the Rings: The Battle for Middle-Earth II,3.58,strategy,None,200
+2.95,12.73,Medal of Honor,3.58,action,None,200
+3.31,52.48,Counter-Strike: Global Offensive,3.58,action,None,100
+2.77,15.75,Prince of Persia: The Forgotten Sands,3.58,action,adventure,200
+2.93,31.78,Banjo-Kazooie: Nuts &amp; Bolts,3.58,action,None,1000
+2.82,47.16,Madden NFL 25,3.58,sports,None,100
+3.51,34.74,FlatOut: Ultimate Carnage,3.57,racing,None,100
+2.98,15.39,Army of Two: The 40th Day,3.57,action,None,500
+3.01,17.21,Gun,3.57,action,adventure,200
+3.15,13.64,F.E.A.R. Files,3.63,action,None,100
+3.05,34.79,Battlefield 4,3.63,action,None,200
+3.12,61.63,Dynasty Warriors: Strikeforce,3.63,action,None,100
+2.93,41.29,Enchanted Arms,3.36,role-playing,None,500
+3.14,16.3,Disney's TRON: Evolution,3.35,action,adventure,100
+2.64,25.5,Band Hero,3.35,action,None,100
+2.83,11.27,TimeShift,3.35,action,None,200
+2.68,12.01,Peter Jackson's King Kong: The Official Game of the Movie,3.22,action,adventure,200
+3.04,12.0,Eat Lead: The Return of Matt Hazard,3.22,action,None,100
+3.03,6.86,The Club,3.22,action,None,100
+2.8,22.55,James Cameron's Avatar: The Game,3.21,action,adventure,100
+3.27,14.64,Tom Clancy's Ghost Recon Advanced Warfighter,3.57,action,None,500
+2.8,34.69,WWE SmackDown vs. Raw 2007,3.62,sports,None,200
+3.0,9.72,Robert Ludlum's The Bourne Conspiracy,3.62,action,None,100
+3.24,21.34,Fight Night Champion,3.62,sports,None,100
+2.69,12.89,"Scene It? Lights, Camera, Action",3.62,miscellaneous,None,100
+3.33,31.64,Need for Speed: Shift,3.62,racing,None,200
+3.45,27.07,Earth Defense Force: Insect Armageddon,3.62,action,None,200
+2.88,25.51,Assassin's Creed Liberation HD,3.35,action,adventure,100
+2.89,14.82,Army of Two: The Devil's Cartel,3.34,action,None,100
+3.2,15.85,Hexic HD,3.33,puzzle,None,500
+2.9,5.75,Deadlight,3.33,action,None,200
+3.02,28.45,Need for Speed ProStreet,3.33,racing,None,200
+2.23,13.04,DreamWorks Kung Fu Panda,3.33,action,None,200
+2.79,11.48,Homefront,3.2,action,None,200
+2.9,4.91,Teenage Mutant Ninja Turtles: Turtles in Time Re-Shelled,3.2,action,None,200
+2.88,6.81,Doritos Crash Course,3.19,action,None,200
+2.45,12.21,X-Men: Destiny,3.19,action,None,100
+3.25,6.69,Aegis Wing,3.19,action,None,500
+2.8,31.16,Arcania: Gothic 4,3.19,role-playing,None,100
+2.94,12.33,Small Arms,3.18,action,None,100
+3.32,15.68,Velvet Assassin,3.17,action,None,100
+3.79,73.5,Spectral Force 3,3.57,strategy,None,100
+2.28,5.96,The Maw,3.57,action,None,100
+2.77,20.06,Destroy All Humans! Path of the Furon,3.57,action,adventure,100
+3.12,55.0,Happy Wars,3.57,action,None,200
+3.88,41.08,Operation Darkness,3.57,strategy,None,100
+3.1,32.1,Too Human,3.56,action,adventure,1000
+3.09,22.33,The Lord of the Rings: War in the North,3.56,role-playing,None,200
+3.07,49.15,Defiance,3.56,action,None,200
+2.88,17.54,007: Quantum of Solace,3.62,action,None,200
+2.84,18.65,Naruto: Rise of a Ninja,3.62,action,adventure,500
+3.05,33.18,Need for Speed: Most Wanted,3.62,racing,None,200
+3.34,13.13,Crysis,3.61,action,None,100
+2.83,12.32,Captain America: Super Soldier,3.61,action,adventure,100
+2.99,24.72,Alpha Protocol,3.61,role-playing,None,200
+3.12,13.47,Quake 4,3.32,action,None,200
+3.03,19.78,Shadowrun,3.32,action,None,200
+3.69,40.12,Shift 2: Unleashed,3.32,racing,None,100
+2.67,3.29,Sonic the Fighters,3.31,action,None,100
+3.3,11.42,Bionic Commando,3.3,action,None,200
+3.3,5.38,Boom Boom Rocket,3.3,action,None,100
+3.15,28.7,007 Legends,3.3,action,None,100
+2.46,7.05,Feeding Frenzy,3.3,puzzle,None,200
+2.83,22.16,Major League Baseball 2K9,3.29,sports,None,100
+2.98,14.53,Spider-Man: Edge of Time,3.52,action,None,100
+3.72,14.15,Street Fighter II' Hyper Fighting,3.52,action,None,100
+2.93,12.12,Sonic the Hedgehog 4: Episode II,3.52,action,None,100
+3.57,29.8,Armored Core 4,3.52,simulation,None,200
+3.25,45.49,Kingdom Under Fire: Circle of Doom,3.17,role-playing,None,200
+2.72,11.9,Saw,3.16,action,adventure,100
+3.32,7.94,The King of Fighters XII,3.15,action,None,100
+2.92,20.59,The Outfit,3.15,action,None,100
+2.79,26.01,Need for Speed Undercover,3.56,racing,None,200
+3.03,14.61,Killer Is Dead,3.56,action,adventure,100
+3.36,16.8,Splatterhouse,3.56,action,None,200
+3.13,19.08,Need for Speed: The Run,3.56,racing,None,200
+3.45,46.47,Divinity II: Ego Draconis,3.55,role-playing,None,200
+2.78,15.17,The Simpsons Game,3.55,action,None,200
+2.76,20.38,Carcassonne,3.61,miscellaneous,None,100
+3.5,37.67,Command &amp; Conquer 3: Tiberium Wars,3.6,strategy,None,200
+3.02,16.53,Tom Clancy's HAWX,3.6,simulation,None,200
+2.94,24.24,Just Cause,3.29,action,adventure,200
+3.44,33.7,Chromehounds,3.29,simulation,None,200
+3.15,25.22,Ninety-Nine Nights,3.29,action,None,500
+3.57,24.06,Star Trek: Legacy,3.29,simulation,None,100
+3.02,3.76,Golden Axe,3.51,action,None,100
+2.71,20.85,Tony Hawk's American Wasteland,3.51,sports,None,100
+3.34,14.16,Afro Samurai,3.51,action,None,200
+3.76,16.67,Crystal Defenders,3.51,simulation,None,100
+2.76,12.67,Star Wars: The Force Unleashed II,3.51,action,None,500
+3.3,23.71,SoulCalibur V,3.51,action,None,500
+2.83,19.2,The Incredible Hulk,3.51,action,adventure,100
+2.78,7.03,Hydrophobia,3.15,action,adventure,100
+3.05,12.26,Medal of Honor: Warfighter,3.13,action,None,100
+2.83,30.07,Ascend: Hand of Kul,3.13,role-playing,None,100
+2.98,19.59,Call of Juarez,3.12,action,None,100
+2.02,16.09,Spider-Man: Friend or Foe,3.12,action,adventure,100
+2.82,22.26,Dragon Ball Z: Ultimate Tenkaichi,3.12,action,None,200
+3.08,39.83,Bejeweled 2 Deluxe,3.55,puzzle,None,100
+3.54,47.93,Ridge Racer 6,3.54,racing,None,100
+3.38,22.76,Project Sylpheed: Arc of Deception,3.54,simulation,None,100
+2.82,23.96,2010 FIFA World Cup South Africa,3.54,sports,None,100
+3.92,9.49,Alien Hominid HD,3.54,action,None,200
+3.18,16.79,Silent Hill: Downpour,3.54,action,adventure,200
+2.91,26.07,Major League Baseball 2K8,3.51,sports,None,100
+3.64,29.73,Guilty Gear 2: Overture,3.5,strategy,None,100
+3.09,32.53,Dead Island: Riptide,3.5,action,None,200
+2.51,26.14,Madden NFL 08,3.5,sports,None,200
+3.22,15.33,Ninja Blade,3.5,action,adventure,200
+2.81,19.24,Kameo: Elements of Power,3.5,action,adventure,500
+2.88,18.92,Fracture,3.11,action,None,100
+2.8,15.35,Naughty Bear,3.11,action,None,100
+2.54,18.21,Madden NFL 06,3.11,sports,None,100
+3.15,18.32,Perfect Dark Zero,3.09,action,None,1000
+3.53,13.56,Rockstar Games presents Table Tennis,3.54,sports,None,100
+2.98,19.68,Viking: Battle for Asgard,3.53,action,adventure,200
+3.54,33.48,Dragon Ball Z: Battle of Z,3.53,action,None,100
+3.05,14.52,Wet,3.53,action,None,200
+3.23,15.01,Medal of Honor: Airborne,3.53,action,None,200
+3.02,10.04,Stranglehold,3.53,action,None,200
+2.94,15.7,Red Faction: Armageddon,3.52,action,None,200
+2.02,16.24,A World of Keflings,3.52,strategy,None,200
+2.79,21.7,Crackdown 2,3.52,action,adventure,500
+4.06,7.08,Contra,3.49,action,None,100
+3.34,18.69,Lost Planet: Extreme Condition,3.49,action,None,500
+3.44,37.9,Armored Core V,3.49,simulation,None,100
+3.71,5.6,Zuma Deluxe,3.49,puzzle,None,100
+2.66,30.91,WWE SmackDown vs. Raw 2008,3.49,sports,None,200
+3.13,19.7,Street Fighter X Tekken,3.49,action,None,200
+3.14,18.78,Aliens vs. Predator,3.49,action,None,500
+3.48,23.94,Yu-Gi-Oh! 5D's Decade Duels,3.49,strategy,None,100
+3.0,6.04,AC/DC Live: Rock Band Track Pack,3.48,action,None,100
+2.98,41.55,Two Worlds II,3.48,role-playing,None,200
+2.4,25.85,Harry Potter and the Order of the Phoenix,3.48,action,adventure,100
+3.12,11.19,Kane &amp; Lynch 2: Dog Days,3.08,action,None,100
+2.78,5.63,Doritos Crash Course 2,3.07,action,None,100
+2.04,7.28,TMNT,3.05,action,None,100
+3.33,13.76,Clive Barker's Jericho,3.05,action,adventure,200
+2.83,48.54,Test Drive Unlimited 2,3.48,racing,None,200
+3.28,20.03,Guitar Hero: Van Halen,3.47,action,None,100
+2.75,16.36,Guitar Hero: Aerosmith,3.47,action,None,500
+2.93,15.86,Remember Me,3.47,action,adventure,100
+2.76,28.01,Call of Duty: Advanced Warfare,3.47,action,None,200
+2.58,15.78,Kinect Sports,3.47,sports,None,200
+3.34,22.39,Call of Duty Classic,3.47,action,None,200
+2.72,57.85,Phantasy Star Universe,3.47,role-playing,None,200
+2.9,18.33,The Lord of the Rings: Conquest,3.47,action,adventure,200
+3.07,27.1,Resident Evil 6,3.46,action,adventure,1000
+2.94,18.54,DmC: Devil May Cry,3.46,action,adventure,500
+3.55,14.22,American McGee's Alice,3.46,action,adventure,100
+2.99,17.25,Call of Duty 3,3.46,action,None,1000
+3.08,9.9,Syndicate,3.46,action,None,100
+3.14,9.43,Assault Heroes,3.46,action,None,100
+2.46,21.33,LEGO Indiana Jones: The Original Adventures / DreamWorks Kung Fu Panda,3.45,miscellaneous,None,200
+3.05,22.46,Thief,3.45,action,adventure,100
+3.02,49.09,Rumble Roses XX,3.45,sports,None,200
+2.98,43.72,Dead or Alive Xtreme 2,3.45,sports,None,500
+3.01,24.43,Onechanbara: Bikini Samurai Squad,3.45,action,None,200
+3.38,14.48,Comic Jumper: The Adventures of Captain Smiley,3.44,action,None,100
+2.66,35.46,Skylanders: Spyro's Adventure,3.44,action,None,200
+3.42,16.53,Iron Man,3.04,action,adventure,100
+2.92,14.63,Front Mission Evolved,3.02,action,None,100
+2.83,15.17,Dark Messiah of Might and Magic: Elements,3.01,action,None,100
+3.02,13.66,Duke Nukem Forever,2.99,action,None,500
+2.35,2.25,Harms Way,2.98,action,None,200
+3.07,14.6,Legendary,2.98,action,None,100
+3.28,20.0,Spartacus Legends,2.97,action,None,100
+3.13,17.44,Brink,2.97,action,None,200
+2.83,24.77,Call of Duty: Ghosts,2.97,action,None,500
+3.14,16.26,Resident Evil: Operation Raccoon City,2.96,action,None,500
+3.02,21.88,Transformers: The Game,2.96,action,adventure,100
+2.58,5.28,Pocketbike Racer,2.95,racing,None,100
+3.29,18.02,Bullet Witch,2.95,action,None,200
+3.2,19.16,X-Blades,2.95,action,None,100
+2.75,9.97,BlackSite: Area 51,2.93,action,None,100
+3.44,16.82,Alone in the Dark,2.91,action,adventure,200
+2.45,16.73,Crash of the Titans,2.9,action,None,100
+3.05,49.27,Two Worlds,2.89,role-playing,None,500
+3.0,8.25,Undertow,2.88,action,None,100
+3.31,13.8,TNA iMPACT!,2.87,sports,None,100
+2.24,9.06,Lost: Via Domus,2.86,action,adventure,100
+2.12,14.78,Viva Pinata: Party Animals,2.86,miscellaneous,None,100
+3.78,7.69,Golden Axe: Beast Rider,2.85,action,None,100
+2.87,11.92,Dark Void,2.8,action,None,100
+3.35,14.44,Sniper: Ghost Warrior,2.79,action,None,100
+3.37,18.19,Ninja Gaiden 3,2.78,action,adventure,200
+3.07,16.8,The Walking Dead: Survival Instinct,2.78,action,adventure,100
+2.61,22.82,Game Room,2.72,miscellaneous,None,100
+3.25,31.86,Game of Thrones,2.71,role-playing,None,100
+2.77,11.6,Terminator Salvation,2.68,action,None,100
+2.27,24.13,Fuzion Frenzy 2,2.65,miscellaneous,None,100
+1.65,2.93,Dash of Destruction,2.6,racing,None,200
+2.48,12.71,Dungeons &amp; Dragons: Daggerdale,2.59,role-playing,None,100
+2.53,12.5,Superman Returns,2.54,action,adventure,100
+2.76,11.06,Aliens: Colonial Marines,2.54,action,None,200
+2.92,19.47,Def Jam: Icon,2.53,action,None,100
+2.31,10.1,Sneak King,2.48,action,adventure,200
+2.4,18.68,Kinect Star Wars,2.39,action,None,100
+3.66,27.28,Sonic the Hedgehog,2.38,action,None,1000
+2.44,4.19,Big Bumpin',2.33,racing,None,100
+3.66,27.07,Sonic Free Riders,2.33,racing,None,100
+4.44,16.36,Vampire Rain,2.12,action,adventure,100
+2.76,14.17,Yaris,1.66,racing,None,100

@@ -24,11 +24,18 @@ If you can't find your game, you can always search in the search bar. The search
 
 <img width="357" alt="image" src="https://user-images.githubusercontent.com/55035176/175440426-0ccc77cb-f348-4a21-aaed-1f311a1195c4.png">
 
-Then you can click search
+Then you can click search, it would have a success message if success.
+
 <img width="498" alt="image" src="https://user-images.githubusercontent.com/55035176/175440702-ee67f48b-0e21-4583-8c0a-0064d9240bb7.png">
 
 Your game will highlight in graph!
+
 <img width="880" alt="image" src="https://user-images.githubusercontent.com/55035176/175440841-b0aa2d03-41eb-4204-8f24-656cd249c712.png">
 
 Click 'reset' button to clear all highlighted games.
+
+If your searched game not in the current graph, it will show some similar games. You can click the game you want.
+
+<img width="363" alt="image" src="https://user-images.githubusercontent.com/55035176/175441348-f61d9b80-7ab7-485d-a5c6-149895f76c6a.png">
+
 

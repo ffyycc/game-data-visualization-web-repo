@@ -38,4 +38,7 @@ If your searched game not in the current graph, it will show some similar games.
 
 <img width="363" alt="image" src="https://user-images.githubusercontent.com/55035176/175441348-f61d9b80-7ab7-485d-a5c6-149895f76c6a.png">
 
+<img width="880" alt="image" src="https://user-images.githubusercontent.com/55035176/175441542-52aba66f-2a55-4aa7-9031-d7f513d3afd2.png">
+
+
 

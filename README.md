@@ -1,7 +1,7 @@
 # Find Your Video Game
 ## Graph Visualization for Games in Different Platforms
 
-This repo shares my data to create [Find Your Video Game](https://videogamevisual.com/) website.
+This repo shares my data to create [Find Your Video Game](https://videogamevisual.com/) website. You can visit **game_data** directory to find csv files I used on my website.
 
 All data are from [GameFAQs](https://gamefaqs.gamespot.com/), and I will update the data periodically.
 
@@ -16,7 +16,7 @@ Below are some examples and instructions about what you can do on this web.
 #### Nintendo Switch
 <img width="880" alt="image" src="https://user-images.githubusercontent.com/55035176/175436972-cb5c7e73-293d-4bac-b52d-0e86f8b47202.png">
 
-### Mouse Over And Search
+### Mouse Over and Search
 You can put your mouse on the single plot to show detailed information.
 Here, I select the point for the popular game "Super Smash Bros"
 

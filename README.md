@@ -1,7 +1,7 @@
 # Find Your Video Game
 ## Graph Visualization for Games in Different Platforms
 
-This repo shares my data to create [Find Your Video Game](https://videogamevisual.com/) website. You can visit **game_data** directory to find csv files I used on my website.
+This repo shares my data using on [Find Your Video Game](https://videogamevisual.com/) website. You can visit **game_data** directory to find csv files I used on my website.
 
 All data are from [GameFAQs](https://gamefaqs.gamespot.com/), and I will update the data periodically.
 

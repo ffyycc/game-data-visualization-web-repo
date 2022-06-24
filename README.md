@@ -5,7 +5,9 @@ This repo shares my data to create [Find Your Video Game](https://videogamevisua
 
 All data are from [GameFAQs](https://gamefaqs.gamespot.com/), and I will update the data periodically.
 
-I use **D3.js** to create most part of my website and use **google firebase** as the database. Below are some examples and instructions about what you can do on this web.
+I use **D3.js** to create most part of my website and use **google firebase** as the database. 
+
+Below are some examples and instructions about what you can do on this web.
 
 ### Examples
 #### PC

@@ -28,7 +28,7 @@ Then you can click search, it would have a success message if success.
 
 <img width="498" alt="image" src="https://user-images.githubusercontent.com/55035176/175440702-ee67f48b-0e21-4583-8c0a-0064d9240bb7.png">
 
-Your game will highlight in graph!
+Your game will be highlighted in graph!
 
 <img width="880" alt="image" src="https://user-images.githubusercontent.com/55035176/175440841-b0aa2d03-41eb-4204-8f24-656cd249c712.png">
 

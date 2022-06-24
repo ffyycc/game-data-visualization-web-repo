@@ -14,8 +14,9 @@ I use **D3.js** to create most part of my website and use **google firebase** as
 #### Nintendo Switch
 <img width="880" alt="image" src="https://user-images.githubusercontent.com/55035176/175436972-cb5c7e73-293d-4bac-b52d-0e86f8b47202.png">
 
-### Mouse Over
-<img width="825" alt="image" src="https://user-images.githubusercontent.com/55035176/174964148-d05cace5-716d-47ab-89e7-fac0c7a03121.png">
+### Mouse Over Event
+You can put your mouse on the single plot to show detailed information
+<img width="880" alt="image" src="https://user-images.githubusercontent.com/55035176/175438134-2df63cc1-1bf2-46d1-960d-04906e064d50.png">
 
 ### Search
 <img width="825" alt="image" src="https://user-images.githubusercontent.com/55035176/174963937-a95626a9-38b9-4f9f-8ed2-044cbcb40c23.png">

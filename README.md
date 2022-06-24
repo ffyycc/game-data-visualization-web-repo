@@ -1,4 +1,5 @@
-# Graph Visualization for Games in Different Platforms
+# Find Your game
+## Graph Visualization for Games in Different Platforms
 
 This repo shares my data to create [Find Your Video Game](https://videogamevisual.com/) website.
 

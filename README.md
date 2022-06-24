@@ -14,10 +14,21 @@ I use **D3.js** to create most part of my website and use **google firebase** as
 #### Nintendo Switch
 <img width="880" alt="image" src="https://user-images.githubusercontent.com/55035176/175436972-cb5c7e73-293d-4bac-b52d-0e86f8b47202.png">
 
-### Mouse Over Event
-You can put your mouse on the single plot to show detailed information
+### Mouse Over And Search
+You can put your mouse on the single plot to show detailed information.
+Here, I select the point for the popular game "Super Smash Bros"
+
 <img width="880" alt="image" src="https://user-images.githubusercontent.com/55035176/175438134-2df63cc1-1bf2-46d1-960d-04906e064d50.png">
 
-### Search
-<img width="825" alt="image" src="https://user-images.githubusercontent.com/55035176/174963937-a95626a9-38b9-4f9f-8ed2-044cbcb40c23.png">
+If you can't find your game, you can always search in the search bar. The search box will give you the similar game names.
+
+<img width="357" alt="image" src="https://user-images.githubusercontent.com/55035176/175440426-0ccc77cb-f348-4a21-aaed-1f311a1195c4.png">
+
+Then you can click search
+<img width="498" alt="image" src="https://user-images.githubusercontent.com/55035176/175440702-ee67f48b-0e21-4583-8c0a-0064d9240bb7.png">
+
+Your game will highlight in graph!
+<img width="880" alt="image" src="https://user-images.githubusercontent.com/55035176/175440841-b0aa2d03-41eb-4204-8f24-656cd249c712.png">
+
+Click 'reset' button to clear all highlighted games.
 

@@ -1,13 +1,13 @@
 # Find Your Video Game
 ## Graph Visualization for Games in Different Platforms
 
-This repo shares my data using on [Find Your Video Game](https://videogamevisual.com/) website. You can visit **game_data** directory to find csv files I used on my website.
-
-All content based data are from [GameFAQs](https://gamefaqs.gamespot.com/), and I will update the data periodically.
+This repo shares my data using on [Find Your Video Game](https://videogamevisual.com/) website. You can visit **content_data** directory to find csv files I used on my website.
 
 I use **D3.js** to create most part of my website and use **google firebase** as the database. Also, **Scrapy** is the main web scraping tool for me to collect data. 
 
-Below are some examples and instructions about what you can do on this web.
+All content based data are from [GameFAQs](https://gamefaqs.gamespot.com/), and I will update the data periodically.
+
+All web related codes are in **web** directory and all data analysis and model development codes are in **analysis** directory.
 
 Below are some examples and instructions about what you can do on this web.
 
@@ -36,7 +36,7 @@ Your game will be highlighted in graph!
 
 <img width="880" alt="image" src="https://user-images.githubusercontent.com/55035176/175440841-b0aa2d03-41eb-4204-8f24-656cd249c712.png">
 
-Click 'reset' button to clear all highlighted games.
+Click **RESET** button to clear all highlighted games.
 
 If your searched game not in the current graph, it will show some similar games. You can click the game you want.
 

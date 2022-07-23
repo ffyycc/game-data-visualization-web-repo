@@ -1,10 +1,14 @@
 # Graph Visualization for Games in Different Platforms
 
-This repo shares my data to create [Find Your Video Game](https://videogamevisual.com/) website.
+This repo shares my code and data to create [Find Your Video Game](https://videogamevisual.com/) website.
 
-All data are from [GameFAQs](https://gamefaqs.gamespot.com/), and I will update the data periodically.
+All content based data are from [GameFAQs](https://gamefaqs.gamespot.com/), and I will update the data periodically.
 
-I use D3.js to create most part of my website and use google firebase as the database. Below are some examples and instructions about what you can do on this web.
+All web related 
+
+I use D3.js to create most part of my website and use google firebase as the database. Also, Scrapy is the main web scraping tool for me to collect data. 
+
+Below are some examples and instructions about what you can do on this web.
 
 ### PC
 <img width="880" alt="image" src="https://user-images.githubusercontent.com/55035176/174960132-eb4045dc-6de1-4eee-b8e1-e2eb4f86c074.png">

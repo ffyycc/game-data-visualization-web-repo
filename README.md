@@ -45,3 +45,7 @@ If your searched game not in the current graph, it will show some similar games.
 <img width="880" alt="image" src="https://user-images.githubusercontent.com/55035176/175441542-52aba66f-2a55-4aa7-9031-d7f513d3afd2.png">
 
 The system can recommend games based on your input. You can click the game you are interested in.
+<img width="363" alt="image" src="https://user-images.githubusercontent.com/55035176/180627077-f6eb9ed6-ab40-4d75-868d-137eaab40dba.png">
+<img width="880" alt="image" src="https://user-images.githubusercontent.com/55035176/180627108-f3a1877b-cc12-4669-821c-312d39393e79.png">
+
+

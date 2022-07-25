@@ -9,6 +9,8 @@ All content based data are from [GameFAQs](https://gamefaqs.gamespot.com/), and 
 
 All web related codes are in **web** directory and all data analysis and model development codes are in **analysis** directory.
 
+The part of project ideas is inspired by Professor Wade [Visualization for GenEd](https://waf.cs.illinois.edu/visualizations/)
+
 Below are some examples and instructions about what you can do on this web.
 
 ### Examples

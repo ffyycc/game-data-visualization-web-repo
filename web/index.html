@@ -137,6 +137,7 @@
             width: 60%;
         }
 
+        /* label color */
         .input-field label {
             color: #9e9e9e;
         }
@@ -169,25 +170,28 @@
             cursor: pointer;
         }
 
+        /* label underline focus color */
         .input-field input[type=text]:focus {
             border-bottom: 1px solid #757575;
             box-shadow: 0 1px 0 0 #757575;
         }
-
+        /* valid color */
         .input-field input[type=text].valid {
             border-bottom: 1px solid #757575;
             box-shadow: 0 1px 0 0 #757575;
         }
-
+        /* invalid color */
         .input-field input[type=text].invalid {
             border-bottom: 1px solid #757575;
             box-shadow: 0 1px 0 0 #757575;
         }
 
+        /* icon prefix focus color */
         .input-field .prefix {
             color: #757575;
         }
 
+        /* icon prefix focus color */
         .input-field .prefix.active {
             color: #26a69a;
         }
@@ -203,13 +207,13 @@
         </h1>
         <p class="flow-text white-text" style="margin-left: 15%;">graph visualization for games in different platforms</p>
         <div class="author">
-            <div id = "name" style="margin-left: 15%; color: white; display:inline;">Data last updated time: July, 2022,  by Yucheng Feng </div>
-            <div class="linkedinlogo" style="display:inline; margin-left: 15px;">
+            <p id = "name" style="margin-left: 15%; color: white; display:inline; font-family: Arial, Helvetica, sans-serif;">Data last updated time: July, 2022,  by Yucheng Feng </p>
+            <div class="linkedinlogo" style="display:inline; margin-left: 1%;">
                 <a href="https://www.linkedin.com/in/yucheng-feng-011a76222/" target="_blank">
                     <img src="linkedin_logo.png" alt="linkedin_link" style="width:20px;height:20px;"></img>
                 </a>
             </div>
-            <div class="gitlogo" style="display:inline; margin-left: 15px;">
+            <div class="gitlogo" style="display:inline; margin-left: 1%;">
                 <a href="https://github.com/ffyycc" target="_blank">
                     <img src="github_logo.png" alt="github_link" style="width:20px;height:20px;"></img>
                 </a>
@@ -233,7 +237,7 @@
 
                         <p style="color:#757575; font-family:Arial, Helvetica, sans-serif; font-size:105%; margin-bottom: 10px;">
                             The graph contains games with votes above 100 from <cite><a href="https://gamefaqs.gamespot.com/" target="_blank">GameFAQs</a></cite>, and you can go to its website to fetch more information.
-                            If you are interested in the datasets presented on this website, feel free to visit <cite><a href="https://github.com/ffyycc/find_your_video_game_data" target="_blank">repo</a></cite> here to get dataset csv files. Wish you have a great experience!
+                            If you are interested in the datasets, the recommendation algorithm, or the web source code behide this website, feel free to visit <cite><a href="https://github.com/ffyycc/find_your_video_game_data" target="_blank">repo</a></cite> here to check it out. Wish you have a great experience!
                         </p>
                     </div>
                 </form>
@@ -320,7 +324,20 @@
     <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-firestore.js"></script>
 
     <script>
-        // web app's Firebase configuration (hide for safety)
+        // web app's Firebase configuration
+        const firebaseConfig = {
+            apiKey: "AIzaSyCRoAhlmHY64phZjVPI3wRXMi3GIWxQ0Cg",
+            authDomain: "game-visualization.firebaseapp.com",
+            projectId: "game-visualization",
+            storageBucket: "game-visualization.appspot.com",
+            messagingSenderId: "967128952326",
+            appId: "1:967128952326:web:b3808f0264cb9939839d87",
+            measurementId: "G-1Z7VV4SLPG"
+        };
+
+        const firebaseApp = firebase.initializeApp(firebaseConfig);
+        const db = firebaseApp.firestore();
+        db.settings({ merge: true, timestampsInSnapshots: true })
     </script>
 
     <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>

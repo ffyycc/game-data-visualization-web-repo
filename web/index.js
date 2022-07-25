@@ -2,8 +2,15 @@ const label_dims = { height: 120, width: 900};
 const label_margin = {top:30,right:40,bottom:100, left:100};
 const votes_magrin = { left:15 };
 // create svg element
-var label_svg = d3.select(".labels").append("svg").attr("width", label_dims.width).attr("height",label_dims.height)
-var votes_svg = d3.select(".slidecontainer").append("svg").attr("width", '120%').attr("height",30).attr('color','grey')
+var label_svg = d3.select(".labels")
+                    .append("svg")
+                    .attr('viewBox',`0 0 ${label_dims.width} ${label_dims.height}`)
+                    .attr('preserveAspectRatio',"xMidYMid meet");
+var votes_svg = d3.select(".slidecontainer")
+                    .append("svg")
+                    .attr("width", '120%')
+                    .attr("height",30)
+                    .attr('color','grey')
 
 
 // Create data

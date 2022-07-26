@@ -3,11 +3,11 @@
 
 This repo shares my data using on [Find Your Video Game](https://videogamevisual.com/) website. You can visit **content_data** directory to find csv files I used on my website.
 
-I use **D3.js** to create most part of my website and use **google firebase** as the database. Also, **Scrapy** is the main web scraping tool for me to collect data. 
+I use **D3.js** to create most part of my website and use **google firebase** as the database. Also, **Scrapy** is the primary web scraping tool for me to collect data. 
 
-All content based data are from [GameFAQs](https://gamefaqs.gamespot.com/), and I will update the data periodically.
+All content based data are from [GameFAQs](https://gamefaqs.gamespot.com/), and I will update the data periodically. All web related codes are in **web** directory, and all data analysis and model development codes are in **analysis** directory.
 
-All web related codes are in **web** directory and all data analysis and model development codes are in **analysis** directory.
+The part of project ideas is inspired by Professor Wade: [Visualization for GenEd](https://waf.cs.illinois.edu/visualizations/) 
 
 Below are some examples and instructions about what you can do on this web.
 

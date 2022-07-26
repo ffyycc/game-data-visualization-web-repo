@@ -30,7 +30,7 @@ var myColor = d3.scaleLinear().domain([1,5])
 var mySize = d3.scaleLinear().domain([1,5])
   .range([min_radius, max_radius])
 
-label_svg.selectAll(".firstrow").data(ex_data).enter().append("circle").attr("cx", function(d,i){return label_margin.left + i*60}).attr("cy", 50).attr("r", 19).attr("fill", function(d){return myColor(d) }).style('opacity', 0.75);
+label_svg.selectAll(".firstrow").data(ex_data).enter().append("circle").attr("cx", function(d,i){return label_margin.left + i*60}).attr("cy", 50).attr("r", 15).attr("fill", function(d){return myColor(d) }).style('opacity', 0.75);
 
 const second_bar_margin = 600;
 

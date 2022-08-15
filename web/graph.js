@@ -465,6 +465,15 @@ clear_btn.onclick = (e) => {
     update_graph(data_cur);
 }
 
+search_wrapper.onkeyup = function() {
+    var e = e || window.event; 
+    console.log(e.which)
+    if(e.which == 13) {
+      after_search_event();
+      return false;
+    }
+}
+
 
 function countWords(str) {
     return str.trim().split(/\s+/).length;
